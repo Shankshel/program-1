@@ -1,2 +1,2 @@
-# programm-1
+# program-1
 My first progrramm on Ruby!
